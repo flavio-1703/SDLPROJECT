@@ -1,3 +1,3 @@
-# SDLPROJECT
-My attempt at creating a 2D-RPG game with SDL
--Flavio
+# Game
+## A game with the SDL Library
+### -Flavio
